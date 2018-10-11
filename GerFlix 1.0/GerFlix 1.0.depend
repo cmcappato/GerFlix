@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1538146284 source:d:\cappato\clase_11\gerflix\gerflix 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuario.h"
+	"Serie.h"
+
+1538144738 d:\cappato\clase_11\gerflix\gerflix 1.0\usuario.h
+	<string.h>
+	<stdio.h>
+
+1538144727 d:\cappato\clase_11\gerflix\gerflix 1.0\serie.h
+	<string.h>
+	<stdio.h>
+
+1538144727 source:d:\cappato\clase_11\gerflix\gerflix 1.0\serie.c
+	"Serie.h"
+
+1538146348 source:d:\cappato\clase_11\gerflix\gerflix 1.0\usuario.c
+	"Usuario.h"
+
+1538146284 source:d:\cappato\clase_11\gerflix\gerflix 1.0\usuariosyseries.c
+	<stdio.h>
+	<string.h>
+	"UsuariosYSeries.h"
+
+1538146284 d:\cappato\clase_11\gerflix\gerflix 1.0\usuariosyseries.h
+	"Usuario.h"
+	"Serie.h"
+
+1538148651 source:c:\users\caro\desktop\gerflix-master\gerflixx\serie.c
+	"Serie.h"
+
+1538148651 c:\users\caro\desktop\gerflix-master\gerflixx\serie.h
+	<string.h>
+	<stdio.h>
+
+1538148651 source:c:\users\caro\desktop\gerflix-master\gerflixx\usuario.c
+	"Usuario.h"
+
+1538148651 c:\users\caro\desktop\gerflix-master\gerflixx\usuario.h
+	<string.h>
+	<stdio.h>
+
+1538162839 source:c:\users\caro\desktop\gerflix-master\gerflixx\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UsuariosYSeries.h"
+
+1538162744 source:c:\users\caro\desktop\gerflix-master\gerflixx\usuariosyseries.c
+	<stdio.h>
+	<string.h>
+	"UsuariosYSeries.h"
+
+1538162744 c:\users\caro\desktop\gerflix-master\gerflixx\usuariosyseries.h
+	"Usuario.h"
+	"Serie.h"
+
+1538232554 source:c:\users\caro\desktop\gerflix-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UsuariosYSeries.h"
+
+1538196444 c:\users\caro\desktop\gerflix-master\usuariosyseries.h
+	"Usuario.h"
+	"Serie.h"
+
+1538148651 c:\users\caro\desktop\gerflix-master\usuario.h
+	<string.h>
+	<stdio.h>
+
+1538148651 c:\users\caro\desktop\gerflix-master\serie.h
+	<string.h>
+	<stdio.h>
+
+1538148651 source:c:\users\caro\desktop\gerflix-master\serie.c
+	"Serie.h"
+
+1538148651 source:c:\users\caro\desktop\gerflix-master\usuario.c
+	"Usuario.h"
+
+1538188063 source:c:\users\caro\desktop\gerflix-master\usuariosyseries.c
+	<stdio.h>
+	<string.h>
+	"UsuariosYSeries.h"
+
